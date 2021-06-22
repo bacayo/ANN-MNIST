@@ -11,3 +11,6 @@
 
 # Additional notes
 - if **relu** function is used only hidden layers and **sigmoid** function is used output layer, the ann structure performance is increased significantly according to f1 score: 0.98
+
+
+github link [here](https://github.com/bacayo/ANN-MNIST)
